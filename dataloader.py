@@ -7,7 +7,8 @@ from sklearn.model_selection import train_test_split
 import seaborn as sns
 
 # read data file
-address = "../../datasets/eeg.csv"
+#address = "../../datasets/eeg.csv"
+address = "eeg.csv"
 df = pd.DataFrame(pd.read_csv(address))
 
 def data_info():
