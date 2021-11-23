@@ -12,4 +12,5 @@ I created generic modules which take in any dataset and visualize the model perf
 ### Decision Tree
 ### Support Vector Machine (SVM)
 
+<img src="https://i.imgur.com/jLmMKYt.png" alt=""/>
 
