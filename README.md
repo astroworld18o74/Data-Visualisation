@@ -14,6 +14,6 @@ I created generic modules which take in any dataset and visualize the model perf
 
 
 # Model perfomances on various parameters
-<img src="https://i.imgur.com/Y4hH53j.png" alt=""/>
+<a href="https://colab.research.google.com/drive/12UIOlLO7ZqkyQg4oEFifWOr7j2xoM_c_?usp=sharing"><img src="https://i.imgur.com/Y4hH53j.png" alt=""/></a>
 <a href="https://colab.research.google.com/drive/1CXggK_-Jpq5TjGN4JXWYg_rrViccHM_i?usp=sharing">gain lift charts</a>
 
