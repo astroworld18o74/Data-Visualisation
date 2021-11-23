@@ -14,5 +14,5 @@ I created generic modules which take in any dataset and visualize the model perf
 
 
 # Model perfomances on various parameters
-<img src="https://i.imgur.com/jLmMKYt.png" alt=""/>
+<img src="https://i.imgur.com/Y4hH53j.png" alt=""/>
 
